@@ -1,0 +1,1 @@
+{"uuid":"d8040826-4395-4e90-a790-36fe83ca21de","name":"testing.Test_21_Extent_Report","children":["1ed229a9-e199-434c-bd4c-8c9b7d1e667e"],"befores":[{"name":"setupReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1772539102235,"stop":1772539102713}],"afters":[],"start":1772539102162,"stop":1772539108607}
